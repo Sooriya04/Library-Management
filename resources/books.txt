@@ -1,0 +1,14 @@
+B001,Berserk,true
+B002,Tokyo Ghoul,true
+B003,Attack on Titan,true
+B004,Dragon Ball,true
+B005,Bleach,true
+B006,JoJo's Bizarre Adventure,false
+B007,Vagabond,true
+B008,Black Clover,true
+B009,Neon Genesis Evangelion,true
+B010,Fullmetal Alchemist,true
+B011,Monster,true
+B012,20th Century Boys,true
+B013,Billy Bat,true
+B014,Hellsing ,true
