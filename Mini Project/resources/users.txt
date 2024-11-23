@@ -1,3 +1,0 @@
-1,Sooriya,IT155
-2,JohnSmith,IT007
-03,JohnDoe,IT152
